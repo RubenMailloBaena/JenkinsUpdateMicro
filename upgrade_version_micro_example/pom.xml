@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>upgrade_version_micro_example</artifactId>
-	<version>${revision}</version>
+	<version>4.6.7</version>
 	<packaging>war</packaging>
 	<name>upgrade_version_micro_example</name>
 	<description>Demo project for Spring Boot</description>
